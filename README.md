@@ -16,6 +16,18 @@ Built with:
 - styled-components
 - styled-icons
 
+How to run? First clone this repo, then:
+
+```sh
+# cd into the cloned repo
+# Install the project dependencies.
+yarn
+
+# Run the project.
+yarn start
+```
+
+
 
 ## 📃 License
 The source code is made available under the [MIT license](LICENSE).
